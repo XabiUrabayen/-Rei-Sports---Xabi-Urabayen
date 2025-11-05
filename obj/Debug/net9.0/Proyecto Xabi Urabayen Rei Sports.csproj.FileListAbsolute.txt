@@ -1,0 +1,14 @@
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.AssemblyInfoInputs.cache
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.AssemblyInfo.cs
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.csproj.CoreCompileInputs.cache
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\bin\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.exe
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\bin\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.deps.json
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\bin\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.runtimeconfig.json
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\bin\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.dll
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\bin\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.pdb
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.dll
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\refint\Proyecto Xabi Urabayen Rei Sports.dll
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.pdb
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\Proyecto Xabi Urabayen Rei Sports.genruntimeconfig.cache
+C:\Users\ura\Documents\Proyecto Xabi Urabayen Rei Sports\obj\Debug\net9.0\ref\Proyecto Xabi Urabayen Rei Sports.dll
